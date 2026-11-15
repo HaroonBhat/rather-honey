@@ -1,0 +1,13 @@
+{
+  "_note": "Only verified review information from the Rather Honey store is listed here. Review text is intentionally empty until the business supplies real customer words. Add entries to `items` to publish testimonials — never invent them.",
+  "aggregate": {
+    "source": "Rather Honey online store",
+    "verifiedOn": "2026-11-15"
+  },
+  "items": [],
+  "productRatings": [
+    { "slug": "kiker-honey", "value": 5.0, "count": 2 },
+    { "slug": "soli-honey", "value": 5.0, "count": 1 },
+    { "slug": "pure-himalayan-shilajit", "value": 0, "count": 0 }
+  ]
+}

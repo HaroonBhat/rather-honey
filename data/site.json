@@ -1,0 +1,44 @@
+{
+  "brand": "Rather Honey",
+  "legalName": "Rather Honey & Bites",
+  "tagline": "Nature's Gold. Nothing Less.",
+  "description": "Pure, village-harvested honey from Gamroo, Bandipora in Kashmir. Hand-harvested since 2015 and delivered to your table.",
+  "since": 2015,
+  "origin": {
+    "village": "Gamroo",
+    "district": "Bandipora",
+    "region": "Jammu & Kashmir",
+    "country": "India"
+  },
+  "contact": {
+    "address": "D-77, Gamroo, Bandipora, J&K, India",
+    "phone": "+91 95963 20862",
+    "phoneRaw": "+919596320862",
+    "whatsapp": "919596320862",
+    "email": "nooruljamalrather@gmail.com"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/rather.honey/",
+    "facebook": "",
+    "x": ""
+  },
+  "commerce": {
+    "currency": "INR",
+    "currencySymbol": "₹",
+    "freeShippingThreshold": 999,
+    "shippingFlatRate": 79,
+    "shippingWindow": "2–3 business days",
+    "returnWindow": "30-day money-back guarantee",
+    "codEnabled": true,
+    "onlinePaymentsEnabled": false
+  },
+  "announcements": [
+    "Discover the goodness of natural honey.",
+    "Bring home nature's sweetness.",
+    "Explore the Rather Honey collection."
+  ],
+  "newsletter": {
+    "heading": "A LITTLE MORE SWEETNESS IN YOUR INBOX.",
+    "body": "Harvest notes, new batches and a slower kind of sweetness — now and then, never too often."
+  }
+}

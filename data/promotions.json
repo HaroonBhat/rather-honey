@@ -1,0 +1,15 @@
+{
+  "_note": "Every promotion on the storefront is driven by this file. Toggle `enabled` to publish a banner or a coupon code. Nothing here is hardcoded in the UI.",
+  "banner": {
+    "enabled": true,
+    "eyebrow": "From the hives of Gamroo",
+    "heading": "LET NATURE SWEETEN YOUR EVERYDAY.",
+    "body": "A spoon of honey in your morning chai, on warm bread, or straight from the jar. Small-batch, village-harvested, bottled with care.",
+    "ctaLabel": "Shop Now",
+    "ctaHref": "/shop",
+    "image": "/img/promo-pour.jpg",
+    "code": null,
+    "endsOn": null
+  },
+  "coupons": []
+}
